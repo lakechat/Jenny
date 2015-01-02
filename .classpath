@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="j2ee/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/cvsroot/common_main_from_production/lib/mysql-connector-java-3.0.15-ga-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
